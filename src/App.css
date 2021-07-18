@@ -1,0 +1,25 @@
+.container{
+    
+    max-width: 500px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+    border: 2px solid chartreuse;
+    padding: 30px;
+    border-radius: 10px;
+}
+.inicio{
+    margin-top: 10px;
+    border-radius: 10px;
+    min-height: 30px;
+    border: 2px solid chartreuse;
+}
+
+h2{
+    color: #eee;
+}
+h1{
+    margin-left: 10px;
+    color: #eee;
+    font-family: 'Trebuchet MS', sans-serif;
+}
